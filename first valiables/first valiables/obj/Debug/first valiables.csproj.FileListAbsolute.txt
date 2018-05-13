@@ -1,0 +1,6 @@
+D:\vusial stutio codes\first valiables\first valiables\bin\Debug\first valiables.exe.config
+D:\vusial stutio codes\first valiables\first valiables\obj\Debug\first valiables.csprojResolveAssemblyReference.cache
+D:\vusial stutio codes\first valiables\first valiables\bin\Debug\first valiables.exe
+D:\vusial stutio codes\first valiables\first valiables\bin\Debug\first valiables.pdb
+D:\vusial stutio codes\first valiables\first valiables\obj\Debug\first valiables.exe
+D:\vusial stutio codes\first valiables\first valiables\obj\Debug\first valiables.pdb
