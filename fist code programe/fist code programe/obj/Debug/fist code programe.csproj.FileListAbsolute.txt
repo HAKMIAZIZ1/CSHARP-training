@@ -1,0 +1,6 @@
+D:\vusial stutio codes\fist code programe\fist code programe\bin\Debug\fist code programe.exe.config
+D:\vusial stutio codes\fist code programe\fist code programe\obj\Debug\fist code programe.csprojResolveAssemblyReference.cache
+D:\vusial stutio codes\fist code programe\fist code programe\bin\Debug\fist code programe.exe
+D:\vusial stutio codes\fist code programe\fist code programe\bin\Debug\fist code programe.pdb
+D:\vusial stutio codes\fist code programe\fist code programe\obj\Debug\fist code programe.exe
+D:\vusial stutio codes\fist code programe\fist code programe\obj\Debug\fist code programe.pdb
