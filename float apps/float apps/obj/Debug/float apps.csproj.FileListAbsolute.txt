@@ -1,0 +1,5 @@
+D:\vusial stutio codes\float apps\float apps\bin\Debug\float apps.exe.config
+D:\vusial stutio codes\float apps\float apps\bin\Debug\float apps.exe
+D:\vusial stutio codes\float apps\float apps\bin\Debug\float apps.pdb
+D:\vusial stutio codes\float apps\float apps\obj\Debug\float apps.exe
+D:\vusial stutio codes\float apps\float apps\obj\Debug\float apps.pdb
