@@ -1,0 +1,6 @@
+D:\vusial stutio codes\Datatypes-character boot type\Datatypes-character boot type\bin\Debug\Datatypes-character boot type.exe.config
+D:\vusial stutio codes\Datatypes-character boot type\Datatypes-character boot type\obj\Debug\Datatypes-character boot type.csprojResolveAssemblyReference.cache
+D:\vusial stutio codes\Datatypes-character boot type\Datatypes-character boot type\bin\Debug\Datatypes-character boot type.exe
+D:\vusial stutio codes\Datatypes-character boot type\Datatypes-character boot type\bin\Debug\Datatypes-character boot type.pdb
+D:\vusial stutio codes\Datatypes-character boot type\Datatypes-character boot type\obj\Debug\Datatypes-character boot type.exe
+D:\vusial stutio codes\Datatypes-character boot type\Datatypes-character boot type\obj\Debug\Datatypes-character boot type.pdb
